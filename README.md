@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrLaufey
 - 👀 I’m a student
 - 💞️ loves to code
-- 📫 contact me at laufey616@gmail.com
 ![asethathic](https://user-images.githubusercontent.com/86733464/124345638-d1e84f80-dbf7-11eb-94c4-5608f3cac8fb.gif)
 
 <!---
